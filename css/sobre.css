@@ -30,3 +30,13 @@ figure {
 figcaption {
     margin-top: 10px;
 }
+
+.matriz-music {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure img {
+    width: 100%;
+}
