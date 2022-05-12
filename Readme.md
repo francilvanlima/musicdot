@@ -1,1 +1,1 @@
-# musicdot é um projeto de uma loja de Música!
+Project for portfólio
