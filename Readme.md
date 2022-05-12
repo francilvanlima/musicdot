@@ -1,2 +1,1 @@
-Inciando um projeto para portfólio.
-Desenvolviomento de um website para uma loja de música.
+# musicdot é um projeto de uma loja de Música!

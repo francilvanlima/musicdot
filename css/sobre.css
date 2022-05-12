@@ -2,14 +2,23 @@ body {
     width: 940px;
     margin-left: auto;
     margin-right: auto;
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> d5217da420b2e883c69b90226f5d8e460d049bba
     font-family: "Helvetica", "Lucida Grande", sans-serif;
     color: #3D3D3D;
 }
 
 h1 {
+<<<<<<< HEAD
     border-bottom: 2px solid black;
 
+=======
+    padding: 10px;
+    
+>>>>>>> d5217da420b2e883c69b90226f5d8e460d049bba
     background-color: #E1EDF2;
 }
 
@@ -28,5 +37,19 @@ figure {
 }
 
 figcaption {
+<<<<<<< HEAD
     margin-top: 10;
+=======
+    margin-top: 10px;
+}
+
+.matriz-music {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure img {
+    width: 100%;
+>>>>>>> d5217da420b2e883c69b90226f5d8e460d049bba
 }
